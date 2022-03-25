@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashanhanif
-- 👀 I’m interested in Data Analytics, Aritficial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in Data Analytics, Artificial Intelligence and Machine Learning
+- 🌱 I’m proficient in Python and SQL
 - 💞️ I’m looking to collaborate on Data Visualization projects
 - 📫 I can be reached via kashan.m.hanif@gmail.com
 
